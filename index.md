@@ -20,6 +20,7 @@
 - [Flickr (old)](https://www.flickr.com/photos/manuel_foto/)
 
 ### 6. Older projects from study of media informatics 
+![Collage][collage]
 [collage]: (https://www.dropbox.com/s/8n8f96b6h1iz1rd/collage.jpg?dl=0)
 
 
