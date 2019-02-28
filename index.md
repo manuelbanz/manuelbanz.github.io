@@ -16,10 +16,7 @@
 - "Klassentheorie bei Marx und Bourdieu. Ein erster Versuch eines Vergleichs" [Dropbox](https://www.dropbox.com/s/u3be5ih1ey0qkpr/Hausarbeit%20Sozialstruktur%20-%20Manuel%20Banz.pdf?dl=0)
 - "Zum Begriff der Politik und dessen Abgrenzung zu 'dem Politischen', betrachtet am gegenwärtigen 'postpolitischen' Zeitgeist" [Dropbox](https://www.dropbox.com/s/8pp7t0opn3937b1/essay_manuel_banz.pdf?dl=0)
 
-### 5. Photography
-- [Flickr (old)](https://www.flickr.com/photos/manuel_foto/)
-
-### 6. Older projects from study of media informatics 
+### 5. Older projects from study of media informatics 
 ![Collage](https://www.dropbox.com/s/8n8f96b6h1iz1rd/collage.jpg?dl=0)
 
 
