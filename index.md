@@ -17,7 +17,7 @@
 - "Zum Begriff der Politik und dessen Abgrenzung zu 'dem Politischen', betrachtet am gegenwärtigen 'postpolitischen' Zeitgeist" [Dropbox](https://www.dropbox.com/s/8pp7t0opn3937b1/essay_manuel_banz.pdf?dl=0)
 
 ### Older projects from study of media informatics 
-![Collage](https://www.dropbox.com/s/8n8f96b6h1iz1rd/collage.jpg)
+![Collage](https://dl.dropboxusercontent.com/s/8n8f96b6h1iz1rd/collage.jpg)
 
 - #### [XING](https://www.xing.com/profile/Manuel_Banz2)
 - #### [LinkedIn](https://www.linkedin.com/in/manuel-banz-698070181/)
