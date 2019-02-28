@@ -24,7 +24,7 @@
 - Flash physics program
 - digital photography
 
-![Collage](https://dl.dropboxusercontent.com/s/48q26lhgq80euhy/collage.jpg)
+![Collage](https://drive.google.com/open?id=1VV3FUuBuuKqoeZmbUOc2URBGOuo8r2-K)
 
 - #### [XING](https://www.xing.com/profile/Manuel_Banz2)
 - #### [LinkedIn](https://www.linkedin.com/in/manuel-banz-698070181/)
