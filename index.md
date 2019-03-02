@@ -24,7 +24,7 @@
 - Flash physics program
 - digital photography
 
-![Collage](https://drive.google.com/open?id=1VV3FUuBuuKqoeZmbUOc2URBGOuo8r2-K)
+![Collage](https://firebasestorage.googleapis.com/v0/b/angular-todo-app-manuel.appspot.com/o/collage.jpg?alt=media&token=6446e160-c150-436a-84d8-34e87eaabe72)
 
 - #### [XING](https://www.xing.com/profile/Manuel_Banz2)
 - #### [LinkedIn](https://www.linkedin.com/in/manuel-banz-698070181/)
