@@ -6,7 +6,7 @@
 ### relaunch and social media for environmental NGO in argentina 
 - [http://www.biosfera.org/en/](http://www.biosfera.org/en/)
 
-### website and SEO
+### website and SEO for lawyer
 - [http://kanzlei-oelz.at](http://kanzlei-oelz.at)
 
 ### some papers from study of social sciences
@@ -21,7 +21,7 @@
 - swing java text editor
 - 3D maya Projects
 - guitar website
-- Flash physics program
+- flash physics program
 - digital photography
 
 ![Collage](https://firebasestorage.googleapis.com/v0/b/angular-todo-app-manuel.appspot.com/o/collage.jpg?alt=media&token=6446e160-c150-436a-84d8-34e87eaabe72)
