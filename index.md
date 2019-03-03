@@ -1,7 +1,9 @@
 
-### notes app: angular test project with firebase database
-- (https://manuelbanz.github.io/angular-todo-app/)
-- (https://github.com/manuelbanz/angular-todo-app)
+## projects
+
+### notes app: angular 7 test project with firebase database
+- [https://manuelbanz.github.io/angular-todo-app/](https://manuelbanz.github.io/angular-todo-app/)
+- [Github](https://github.com/manuelbanz/angular-todo-app)
 
 ### bachelor thesis: a social media monitoring prototype based on piwik
 - [Bachelor Thesis PDF](https://www.dropbox.com/s/9gi2v88z3fwjryh/Bachelorarbeit_Manuel_Banz.pdf?dl=0)
