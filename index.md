@@ -4,10 +4,10 @@
 - [https://github.com/manuelbanz/social-monitoring-prototype](https://github.com/manuelbanz/social-monitoring-prototype)
 
 ### relaunch and social media for environmental NGO in argentina 
-- [http://www.biosfera.org/en/](http://www.biosfera.org/en/)
+- [https://www.biosfera.org/en/](https://www.biosfera.org/en/)
 
 ### website and SEO for lawyer
-- [http://kanzlei-oelz.at](http://kanzlei-oelz.at)
+- [https://kanzlei-oelz.at](https://kanzlei-oelz.at)
 
 ### some papers from study of social sciences
 - "New Urban Tourism - Welche Konflikte entstehen durch den neuen Tourismus in Berlin?" - Konzept für eine Ausstellung im Humboldt-Forum mit Video-Interview [Prezi](https://prezi.com/view/9UCwWDW4HXJL546Us6pS/)
